@@ -1,0 +1,8 @@
+site vitrine
+inscription
+connexion
+utiliser les outils:gitup,ide,frameworks,reseau sociaux,gestionnaire de projet,logiciel de versionning
+envoyer un mail a la personne qui s'inscrit 
+le nombre d'echéance se fait dans le client lourds
+afficher le planning des candidats
+mettre un planning pour les moniteurs

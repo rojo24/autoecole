@@ -1,0 +1,139 @@
+header{
+	font-size: 70px;
+	text-align: left;
+	font-family: "futura-pt", helvetica,sans-serif;
+	text-shadow:yellow 1px 1px;
+	position:center;
+	color:black;
+	margin-left:50px;
+}
+p {
+	text-align: left;
+	color: yellow;
+	font-size:14px;
+	font-family: "futura-pt", helvetica, sans-serif;
+	letter-spacing:.2em;
+	text-shadow:black 1px 1px;
+	margin-left:30%;
+
+}
+
+h1{
+	color:yellow;
+	font-size:20px;
+	font-family: "futura-pt", helvetica, sans-serif;	
+	text-align: left;
+	letter-spacing:.2em;
+	text-shadow: black 1px 1px;
+	font-size: 15px;
+	margin-left:50px;
+}
+
+strong {
+	font-size:20px;
+	text-shadow:black 1px 1px;
+
+}
+li{
+	display:inline;
+	text-shadow:black 1px 1px;
+	font-size: 20px;
+	color:yellow;
+	height:100px;
+	width:100%;
+	background-color:#3E3E3E;
+	text-align: left;
+}
+
+html{
+	background-image:url(images/1544.jpg);
+	background-position:center right;
+}
+a{
+	color:yellow;
+	text-shadow:black 1px 1px;
+	font-size: 14px;
+	font-weight:bold;	
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+	text-align:center;
+}
+
+a:hover{
+	color:yellow;
+	text-shadow:yellow 1px 1px;
+}
+label{
+	display:block;
+	width: 150px;
+	text-align:left;
+	text-shadow:black 1px 1px;
+	
+
+}
+form{
+	display:block;
+	width:150px;
+	text-align: left;
+	text-shadow:black 1px 1px;
+	color:yellow;
+}
+
+img.displayed{
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.body {
+	padding-top:60px;
+	position:fixed:center;
+
+}
+
+}
+
+#formulaire {
+		font-family:"futura-pt", helvetica, sans-serif;
+		width: 50%;
+		text-align: center;
+		display: block;
+		text-decoration: none;
+		border: 1px solid #b4b4c3;
+		font-size: 20px;
+		position: absolute;
+		top: 40%;
+		left: 25%;
+		letter-spacing:.2em;
+		opacity:.9;
+}
+
+#connect {
+	font-family:"futura-pt", helvetica, sans-serif;
+		width: 50%;
+		text-align: center;
+		display: block;
+		text-decoration: none;
+		border: 1px solid #b4b4c3;
+		font-size: 20px;
+		position: absolute;
+		top: 40%;
+		left: 25%;
+		letter-spacing:.2em;
+		opacity:.9;
+}
+#ie{
+	opacity:.7;	
+}
+#is{
+	opacity:.7;
+}
+#ie:hover{
+	opacity:.9;
+}
+#is:hover{
+	opacity:.9;
+}
+#formulaire{
+	margin-left:30%;
+}
